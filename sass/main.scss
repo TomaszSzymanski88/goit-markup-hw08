@@ -1,0 +1,24 @@
+@import "./utils/variables";
+
+@import "./base/visually-hidden";
+@import "./base/common";
+@import "./base/container";
+@import "./base/section";
+
+@import "./components/backdrop";
+@import "./components/modal";
+@import "./components/modal-mobile";
+@import "./components/buttons";
+@import "./components/social-links";
+
+@import "./layout/header";
+@import "./layout/hero";
+
+@import "./layout/lorem-ipsum";
+@import "./layout/navigation";
+@import "./layout/cards";
+@import "./layout/about";
+@import "./layout/ourteam";
+@import "./layout/clients";
+@import "./layout/footer";
+

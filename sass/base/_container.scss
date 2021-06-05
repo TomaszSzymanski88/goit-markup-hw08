@@ -1,0 +1,73 @@
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 480px) {
+  .container {
+   max-width: 480px;
+   margin: 0 auto;
+  }
+}
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 740px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .container {
+    max-width: 1200px;
+  }
+}
+// .container {
+//   width: 1200px;
+//   margin: 0 auto;
+//   .about & {
+//     width: 1200px;
+//     align-items: center;
+//     justify-content: center;
+//   }
+//   .cards & {
+//     width: 1200px;
+//     display: flex;
+//   }
+//   .contact & {
+//     width: 1200px;
+//     display: flex;
+//     margin: 0 auto;
+//   }
+//   .clients & {
+//   width: 1200px;
+// }
+//   .header & {
+//     width: 1200px;
+//     display: flex;
+//     background: #ffffff;
+//     margin-top: 24px;
+//     margin-bottom: 25px;
+//     align-items: center;
+//   }
+//   .hero & {
+//     width: 1200px;
+//     display: flex;
+//     flex-direction: column;
+//     align-items: center;
+//     text-align: center;
+//   }
+//   .lorem & {
+//     width: 1200px;
+//     background: #ffffff;
+//     align-items: center;
+//     display: flex;
+//     justify-content: center;
+//   }
+//   .portfolio-navigation & {
+//     width: 1200px;
+//   }
+//   .team & {
+//     width: 1200px;
+//     align-items: center;
+//     justify-content: center;
+//   }
+// }
+
